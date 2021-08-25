@@ -1,0 +1,1 @@
+# standalone-plugin-examples
